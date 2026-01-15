@@ -12,9 +12,13 @@ It provides insights into sales, profit, customers, product categories, and paym
 
 # Key KPIs (Top Cards)
 Total Sales Amount: 23K
+          
 Total Profit: 1,958
+
 Total Quantity Sold: 290
+
 Total Orders (Row Count): 6,664
+
 These KPIs give a quick summary of business performance.
 
 # Dashboard Visuals Explanation 
